@@ -16,6 +16,6 @@ Datasets: Barcelona_listings.csv.gz & modified_coordinates.csv
 TechLabs_FinalPresentation_ChickenGroup.pptx \
 TechLabs_FinalPresentation_ChickenGroup.pdf \
 ### Final blogpost *as group work*
-xxx \
+blogpost_chicken-group.docx \
 ### Thanks to our group mentor ken!
 **TechLabs Hamburg 2023,  Chicken Group No. 13**
