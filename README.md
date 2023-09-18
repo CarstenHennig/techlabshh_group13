@@ -13,7 +13,8 @@ Datasets: fullListingsRiga.csv & modified_coordinates.csv
 Barcelona_Data_Analysis.ipynb \
 Datasets: Barcelona_listings.csv.gz & modified_coordinates.csv
 ### Final presentation *by Femke, Christine and Christina*
-xxx \
+TechLabs_FinalPresentation_ChickenGroup.pptx \
+TechLabs_FinalPresentation_ChickenGroup.pdf \
 ### Final blogpost *as group work*
 xxx \
 ### Thanks to our group mentor ken!
