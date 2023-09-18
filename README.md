@@ -2,7 +2,7 @@
 ## TechLabs Hamburg Summer Term 2023, Data Science
 
 This is the GitHub repository of Chicken Group No. 13 of TechLabs Hamburg summer term 2023 in Data Science.\
-**Our Topic: Digital Nomad’s Paradise Found? Cracking the Code of Lisbon, Riga & Barcelona**\
+**Our Topic: Digital Nomad’s Paradise Found? Cracking the Code of Lisbon, Riga & Barcelona**
 ### Lisbon Jupyter Notebook *by Laura*
 TechLabsLisbon.ipynb\
 Dataset: listings 2.csv.zip & modified_coordinates.csv
